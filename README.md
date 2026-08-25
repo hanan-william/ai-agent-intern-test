@@ -30,7 +30,7 @@ The following demo shows the agent handling policy retrieval,
 order lookup, multi-turn context, conflicting information,
 prompt-injection attempts, and unknown orders.
 
-![Aster & Row Support Agent Demo](demo/demo.gif)
+![Aster & Row Support Agent Demo](demo/Demo.gif)
 
 ## Architecture
 
